@@ -28,4 +28,4 @@ jobs:
           context: .
           push: true
           platforms: linux/amd64,linux/arm64/v8,linux/arm/v7
-          tags: nu50218/short-contest-calendar:latest
+          tags: ghcr.io/nu50218/short-contest-calendar:latest
